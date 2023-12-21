@@ -3,7 +3,7 @@
 TMDB is a React.js application that fetches data from [The Movie Database (TMDb)](https://www.themoviedb.org/) API, providing users with a comprehensive directory of movies and TV shows. The app allows users to explore details such as genres, cast, ratings, and more in a structured and user-friendly manner.
 
 ## Youtube Video
-[![Watch the video]([https://youtu.be/XuUBiUiR-mE](https://i9.ytimg.com/vi/XuUBiUiR-mE/mqdefault.jpg?sqp=CLyVkawG-oaymwEmCMACELQB8quKqQMa8AEB-AH6CYAC0AWKAgwIABABGFEgWihlMA8=&rs=AOn4CLB-Wu232xpvGT3LOmjGpm6mTNIwZA))](https://youtu.be/XuUBiUiR-mE)
+[![Watch the video](https://i9.ytimg.com/vi/XuUBiUiR-mE/mqdefault.jpg?sqp=CLyVkawG-oaymwEmCMACELQB8quKqQMa8AEB-AH6CYAC0AWKAgwIABABGFEgWihlMA8=&rs=AOn4CLB-Wu232xpvGT3LOmjGpm6mTNIwZA)](https://youtu.be/XuUBiUiR-mE)
 
 
 ## Features
